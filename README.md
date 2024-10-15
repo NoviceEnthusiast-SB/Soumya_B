@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoviceEnthusiast-SB
+- 👋 Hi, I’m @Soumya 
 - 👀 I’m interested in computer science and its applications
 - 🌱 I’m currently learning machine learning/deep learning
 - 💞️ I’m looking to collaborate on ...
